@@ -37,3 +37,9 @@ cd AgitEmailSenderLinux && \
 ./AgitMailSender_x64
 
 Приємного користування))
+
+# Зворотній зв'язок
+
+@TreeSixMaphy - telegram
+
+VotTakayaPisulina#3297 - discord
